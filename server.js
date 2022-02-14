@@ -6,6 +6,7 @@ let obj = {
   age: 22
 }
 
+
 for (let i in arr) {
   console.log('hello');
   console.log(i);
